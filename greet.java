@@ -1,4 +1,5 @@
 class greet{
 b=10;
-c=20;
+a=10;
+c=a+b;
 }}
